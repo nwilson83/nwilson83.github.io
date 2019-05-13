@@ -1,0 +1,6 @@
+.jumbotron {
+    background: url('../assets/nn11.jpg') no-repeat center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
