@@ -1,6 +1,7 @@
 .jumbotron {
-    background: url('../assets/nn11.jpg') no-repeat center;
+    background: url('../assets/woodwall.jpg') no-repeat center;
     background-size: cover;
-    color: white;
-    text-align: center;
+    color: rgb(241, 133, 9);
+    text-align: start;
+    font-family: 'Orbitron', sans-serif;
 }

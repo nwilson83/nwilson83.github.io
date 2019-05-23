@@ -1,0 +1,12 @@
+.char {
+    display: inline-flex;
+    flex-direction: column;
+    padding: 2em;
+    background-color: rgb(47, 160, 25)
+    
+}
+
+.body1 {
+    text-align: center;
+    background-color: rgb(47,160,25);   
+}
